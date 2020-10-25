@@ -1,7 +1,7 @@
 Team Member Name	Contribution
 ------------------------------------
-Jeevan Gajawada	    - 
-Sai Kumar Addagarla -
-Yashwanth Kumar	    -
-Sandeep Vaddi	    -
-Nikhilesh	    -
+Jeevan Gajawada	    - JSP Pages Creation and Source Code
+Sai Kumar Addagarla - Crated the Datatable Tables snapshot
+Yashwanth Kumar	    - JSP Pages Creation and Source Code
+Sandeep Vaddi	    - Created the Class Diagram snapshot
+Nikhilesh	    - JSP Pages Creation and Source Code
