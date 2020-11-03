@@ -1,0 +1,9 @@
+Java Script and JQuery
+Decoration for presentation
+
+.SQL
+Model classes
+
+resoruces folder - SQL file
+
+Maven is the recommended one
