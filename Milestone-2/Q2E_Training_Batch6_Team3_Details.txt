@@ -1,7 +1,0 @@
-Team Member Name	Contribution
-------------------------------------
-Jeevan Gajawada	    - JSP Pages Creation
-Sai Kumar Addagarla - Crated the Datatable Tables snapshot
-Yashwanth Kumar	    - JSP Pages Creation
-Sandeep Vaddi	    - Created the Class Diagram snapshot
-Nikhilesh	    - JSP Pages Creation
