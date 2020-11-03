@@ -1,9 +1,0 @@
-1) Java Script and JQuery
-2) Decoration for presentation
-3) Create the .java classess
-4) .SQL
-3) Model classes
-5) resoruces folder - SQL file
-6) Maven is the recommended project
-7) Do the client side validations
-
