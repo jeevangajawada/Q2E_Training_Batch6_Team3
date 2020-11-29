@@ -1,1 +1,0 @@
-<h3 align="center" style="color:blue">Portfolio Management System</h3>
