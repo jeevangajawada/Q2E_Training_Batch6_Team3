@@ -1,0 +1,3 @@
+Validations we have to remove from entity class like @Null etc
+We have to create the object for InputDTO not for entity class if we want to read the data from JSP file
+Integrate all the other pages and share it while submitting the final assessment
