@@ -1,10 +1,10 @@
 package com.wf.training.bootapprestfulcrud.entity;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
+import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.validation.constraints.*;
 
+@Entity
 public class Investor {
 	
 	@NotBlank(message = "User ID is mandatory!")
