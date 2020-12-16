@@ -1,0 +1,7 @@
+Team Member Name	Contribution
+------------------------------------
+Jeevan Gajawada	    - Created the JSP home pages for 5 flows, Model class and integrated the project with Spring Boot
+Sai Kumar Addagarla - Created the JSP pages and Model class for Investor Page
+Sandeep Vaddi	    - Created the JSP pages and Model class for BackOffice Page
+Yaswanth	    - No Contribution
+Nikhilesh	    - No Contribution
