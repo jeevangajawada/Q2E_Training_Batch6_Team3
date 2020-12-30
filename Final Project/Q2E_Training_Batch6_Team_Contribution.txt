@@ -1,0 +1,45 @@
+Team Member Name and Contribution details
+-----------------------------------------
+Only 2 team members contributed to the project and rest 3 did not contribute to the project.
+
+
+Jeevan Gajawada Tasks:
+----------------------
+1) Converted the existing project to Sprint Boot latest framework and made sure it is running without any errros
+2) Create the DTO, Exception, Entity, Repository and Implementation for SBA-3
+3) Created the JSP pages for Investor related functionalities
+4) Created a Docker file
+5) Created a Jenkins file and coverted existing project to local GitHub Repo
+6) Madu sure Tables are created dynamically without any errors
+7) Made sure 4 pages functionality is working fine without any issues
+
+
+Sandeep Vaddi Tasks:
+--------------------
+Created the JSP pages, Model class and Entity classess for BackOffice related functionalites
+Integrated the BackOffice with the main project folder
+Made sure the integration of BackOffice is correct without any issues
+
+
+Yaswanth Tasks:
+--------------
+No Contribution
+
+Nikhilesh Tasks:
+----------------
+No Contribution
+
+Sai Kumar Addagarla Tasks:
+--------------------------
+No Contribution
+
+
+
+In Complete Tasks:
+------------------
+1) Apart from the above 4 screens other screens are not integrated with the framework but we have all the required set-up ready
+
+Reason for In Complete tasks:
+-----------------------------
+1) 3 team members (Sai, Yaswanth and Nikhilesh) are on Emergency PTO so we did not get any contribution from their end
+2) Jeevan and Sandeep only worked and was able to accomplish the above 7 tasks for SBA-3
